@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-jenkins",
+  "version": "0.0.1",
+  "description": "example automation test",
+  "main": "app.js",
+  "repository": "https://github.com/ilhamarrouf/nodejs-jenkins.git",
+  "author": "Muhamad Ilham Arrouf <ilham.arrouf@gmail.com>",
+  "license": "MIT"
+}
