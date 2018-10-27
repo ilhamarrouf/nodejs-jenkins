@@ -1,5 +1,4 @@
 const supertest = require('supertest');
-
 const server = supertest.agent('http://localhost:4321');
 
 describe('sample unit test', () => {
